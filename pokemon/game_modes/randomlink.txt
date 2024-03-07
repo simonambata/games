@@ -1,0 +1,14 @@
+RandomLink Rules:
+1. first pokemon catch on every route
+2. level cap and no sub out in storage box
+3. for every death, swap out randomly in draft picks via randomizer.py
+4. the lower the death count the better
+5. no use of items in battle
+6. no duplicate held items
+
+Optional Rules:
+Less Six Clause - if your total pokemon is less than or equal to six, you retain your pokemon but your death score is still counted
+Pokemon League Clause - once a pokemon dies in the Elite Four, you may revive them by using your stocked up revives
+Revive Clause - you cannot buy revives, but you can use picked-up revives to retain a pokemon in your party (still cannot use in-battle revives)
+Revive Together Clause - you can pool your revives with your teammate to have a shared number of revives (sum up your revives and buy enough to match your pooled number of revives)
+Dupes Complex Clause - you may attempt to catch a new pokemon in a new route if you have already caught the encountered pokemon
