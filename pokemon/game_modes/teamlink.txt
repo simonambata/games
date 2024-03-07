@@ -1,0 +1,6 @@
+TeamLink Rules:
+1. same name pokemon on each equivalent iteration
+2. first pokemon catch on every route
+3. same index pokemon for all users
+4. no use of items in battle
+5. no duplicate held items
