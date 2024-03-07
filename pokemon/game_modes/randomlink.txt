@@ -1,4 +1,4 @@
-RandomLink Rules:
+RandomLink (Simon says) Rules:
 1. first pokemon catch on every route
 2. level cap and no sub out in storage box
 3. for every death, swap out randomly in draft picks via randomizer.py
