@@ -1,0 +1,6 @@
+TrashLocke Rules:
+1. catch only first pokemon encounter on every area.
+2. base stats of pokemon must be less than 500 (excluding starter)
+3. no items in battle
+4. no duplicate held items
+5. gift pokemon not allowed (excluding starter)
